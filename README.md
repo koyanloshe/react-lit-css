@@ -1,2 +1,2 @@
-# react-lit-css
+# Lit-reactjs-example
 Created with CodeSandbox
